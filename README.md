@@ -4,8 +4,6 @@
 
 Dans le cadre du TP2, il a été chargé de développer un prototype jouable à partir du GDD de **Moon Tank**. Ce projet s’inscrit dans le contexte du développement de jeux vidéo en suivant un document de conception de jeu, qui définit les lignes directrices concernant les aspects de gameplay, de conception visuelle, et de logique technique du jeu. L’objectif principal est de créer un niveau jouable en implémentant certains éléments clés du gameplay décrits dans le GDD.
 
-Voici le lien du répertoire : [Moon Tank Repo](https://github.com/Ntrdumb/log725-tp2)
-
 ## Développement
 
 Plusieurs modules ont été ajoutés pour implémenter les mécaniques de jeu de **Moon Tank**. Ces modules incluent la gestion des munitions, des collisions, des tirs du joueur, ainsi que la gestion des sons. Ils ont été développés en utilisant des patrons de conception tels que le **Singleton**, le **Component**, et l'**Observer Pattern**.
